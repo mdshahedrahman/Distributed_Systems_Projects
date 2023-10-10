@@ -1,0 +1,31 @@
+How to run the program:
+
+------------------------
+
+
+
+Before running the program, the machine must have numpy installed. Numpy can be installed using the following command from the Ubuntu terminal.
+
+
+
+pip install numpy
+
+
+
+Once numpy has been installed, we can activate the server by navigating to the assignment directory and activate ther server using the command:
+
+
+
+python3 server.py
+
+
+
+Then, the client can be activated by opening another terminal in the same directory and using the command:
+
+
+
+python3 client.py
+
+
+
+The client will connect to the server and perform the computations required by the assignment one by one and display the results in the terminal.  
