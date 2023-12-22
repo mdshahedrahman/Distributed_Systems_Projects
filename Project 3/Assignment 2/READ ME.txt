@@ -1,0 +1,19 @@
+1. Basic Paxos Code 
+
+terminal --> python3 basic_paxos.python3
+
+2. To check the scenario 1 
+
+terminal --> python3 scenario_1
+
+3. To check the scenario 2
+
+terminal --> python3 scenario_2
+
+4. To check the scenario 3
+
+terminal --> python3 scenario_3
+
+5. Checking the centralized Coordinator 
+
+terminal --> python3 Centralized_Coordinator
